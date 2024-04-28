@@ -6,8 +6,9 @@ such as Hindi and Korean, inspired by the [ROMANSETU][1] paper.
 like translation and sentiment analysis on Hindi and Korean text.
 
 [Paper][2]
+
 [Presentation][3]
 
 [1]: https://github.com/NavSanya/CSCI544_Project_Romansetu/blob/main/ROMANSETU_EfficientlyunlockingmultilingualcapabilitiesofLargeLanguageModelsmodelsviaRomanization.pdf 
-[2]: 
-[3]: 
+[2]: https://github.com/NavSanya/CSCI544_Project_Romansetu/blob/main/Final_Report.pdf
+[3]: https://github.com/NavSanya/CSCI544_Project_Romansetu/blob/main/Final%20Presentation%20-%20544.pdf
